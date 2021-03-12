@@ -8,3 +8,8 @@ for x in name:
 b = 500
 if b > a:
   print("b is greater than a")
+
+  i = 1
+while i < 6:
+  print(i)
+  i += 1
